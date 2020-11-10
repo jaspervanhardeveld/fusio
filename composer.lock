@@ -1436,10 +1436,12 @@
                 "shasum": ""
             },
             "require": {
+                "composer/package-versions-deprecated": "^1.10",
                 "composer-plugin-api": "1.0.0",
                 "php": "7.0"
             },
             "require-dev": {
+                "composer/package-versions-deprecated": "^1.10",
                 "composer/composer": "1.6.3",
                 "doctrine/coding-standard": "5.0.1",
                 "ext-zip": "*",
